@@ -71,7 +71,7 @@
     title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
 />
 
 <br/>
