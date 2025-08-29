@@ -2,6 +2,7 @@
   - 🏡 Goiânia-GO-BR
   - 20 Years Old
   - 💻 Software Engineering - Unialfa
+  - 💼 Estágiario de ITS - Triunfo Concebra
 
   😁 Oii Sou o João Paulo, Atualmente trabalho com Automação de Processos onde aprendo muito sobre as IOTs, durante o ensino médio fiz um curso de Técnico em Informática onde além de aprender sobre infraestrutura desenvolvi alguns projetos em JS/TypeScript e Python. Embora já tenha trabalhado com tais linguagens ainda continuo me aprimorando nas mesmas com o objetivo de chegar em um nivel maior de conhecimento.
 
